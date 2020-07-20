@@ -1,2 +1,2 @@
-# Hamdani_Angular
-Basic Angular project
+# Hamdani_Basics
+Angular's Basic project.
